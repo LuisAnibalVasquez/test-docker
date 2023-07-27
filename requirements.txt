@@ -7,4 +7,4 @@ uvicorn
 pydantic
 nltk
 torch==1.13.0
-xformers==0.0.20
+xformers==0.0.13
