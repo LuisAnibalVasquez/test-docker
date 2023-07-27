@@ -6,3 +6,4 @@ fastapi
 uvicorn
 pydantic
 nltk
+torch==1.13.0
